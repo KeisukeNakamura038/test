@@ -1,0 +1,80 @@
+for(var	str=1;	str<=5;	str++){
+	
+	for(var	str1=1;	str1<=str;	str1++){
+		document.write("★");
+	}
+	document.write("<br>");
+}
+
+
+
+document.write("Aのグループ合計金額は"	+	grp(2,4)	+	"円です");
+document.write("<br>");
+document.write("Bのグループ合計金額は"	+	grp(1,5)	+	"円です");
+document.write("<br>");
+document.write("Cのグループ合計金額は"	+	grp(3,7)
+	+	"円です");
+
+
+
+
+
+
+
+
+
+	<div	class="img">
+			<img	src="4eachblog/time.jpeg">
+			</div>2017年1月15日
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<select	class="doropdown"	name="XXX">
+				<option>選択してください</option>
+					<script>
+						for(var	i=18;	i<=65;	i++){
+							document.write("<option	value	"+	i	+">"	+	i	+	"歳</option>");
+						}
+						</script>
+					
+				</select>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		while($row=	$stmt->fetch()){
+			echo	$row["handlename"];
+			echo	$row["title"];
+			echo	$row["comments"];
+		}

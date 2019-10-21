@@ -1,0 +1,38 @@
+body{font-family:fantasy;}
+
+
+
+
+
+
+h1{font-size: 20px;
+			border-left: 5px	solid	red;
+			width: 500px;
+			height:	auto;
+			background-color:	#F5F5F5;
+			padding-left: 15px;
+			line-height: 40px;}
+
+
+form{width: 500px;
+				height: auto;
+				margin-top: 25px;
+				background-color: #F5F5F5;
+				border:	3px	solid	#DCDCDC;
+				border-radius: 10px	10px;}
+
+
+div{padding: 15px;}
+
+
+
+.text,.dropdown,textarea{border: 1px	solid	#DCDCDC;
+																									padding: 5px;
+																									color: #999;}
+
+.submit{border: 1px	solid	#dcdc;
+								background-color: #C1C1C1;
+								color: #FFF;
+								border-radius: 5px	5px;
+								border-bottom: 1px	solid	#000;
+								padding: 4px	10px;}
