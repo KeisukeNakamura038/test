@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\Users\internousdev\Desktop\workspace\workspace-nakamura\test\.metadata\.plugins\org.eclipse.jdt.core
+969968605.index
+2848869319.index
+978394185.index
+4222298462.index
