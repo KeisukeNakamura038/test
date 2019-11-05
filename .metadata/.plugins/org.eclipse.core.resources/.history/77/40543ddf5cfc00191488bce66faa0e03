@@ -1,0 +1,5 @@
+set names utf8;
+set foreign_key_checks = 0;
+drop database if exists logindb_nakamura;
+create database logindb_nakamura;
+use logindb_nakamura;

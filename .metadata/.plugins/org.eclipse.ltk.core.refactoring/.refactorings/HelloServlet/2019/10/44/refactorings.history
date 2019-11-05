@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;WelcomServlet.java&apos; to &apos;build&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;HelloServlet&apos;&#x0D;&#x0A;- 宛先要素: &apos;build&apos;&#x0D;&#x0A;- オリジナル要素: &apos;WelcomServlet.java&apos;" description="コンパイル単位をコピー" element1="/src&lt;{WelcomServlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1572500546943" target="/HelloServlet/build" units="1" version="1.0"/>
+</session>
